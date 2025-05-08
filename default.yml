@@ -15,7 +15,7 @@ org_settings:
     transparency_url: https://catoftheday.com
   server_settings:
   host_expiry_settings:
-    host_expiry_enabled: true
+    host_expiry_enabled: false
     host_expiry_window: 30
     server_url: $FLEET_URL
   org_info:
